@@ -12,3 +12,13 @@ Para criar variaçoes nao oficiais dos programas, ou para testar coisas diferent
 
 5)Como os diagramas ajudam a visualizar a estrutura de branches?
 Eles permitem uma compreensao soobre qual dos branches é o principal ou apenas um anexo facilitando saber a ordem em que foram criados ous as probabilidades de cada commit ou branch de conter algo especifico.
+
+6)Qual é o resultado da mesclagem de dois branches? Por que o representamos no diagrama dessa forma?
+Cria um novo commit que salva os dois branches juntos.Por uqe ele possui dois caminhos 'pai' de origem, já que é criado da uniao de dois branches.
+
+7)Quais são os prós e contras da mesclagem automática do Git v. sempre fazer mesclagens manualmente?
+As inconsistencias que podem ocorrer como o acrecimo de duas funcoes iguais com nomes diferentes , a facilidade de fazer a mesclagem ou os possíveis erros de compilacao que podem ocorrer.
+
+
+
+
