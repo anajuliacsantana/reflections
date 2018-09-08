@@ -1,0 +1,14 @@
+﻿1)O que acontece ao iniciar um repositório? Por que você precisa fazer isso?
+Ao iniciar um repositório criamos um arquivo git em nosso diretorio que permite o armazenamento de metadados de antigas versões.Fazemos isso para que possamos criar os commits que vão nos permitir utilizar ferramentas que comparam antigas versões.
+
+2)Em que se difere a área de preparação do diretório de trabalho e do repositório? Qual valor você acha que ela oferece?
+Permite escolher quais arquivos serão incluidos num proximo commit. Isso ajuda quando vou acrescentar apenas arquuvos pernitentes ao assunto abordado no commit salvo ao inves de slvar todo o repositorio de novo.
+
+3)Como você pode usar a área de preparação para garantir que tenha um commit por alteração lógica?
+Verificando as ultimas alteraçoes e o que foi feito nelas por alto para saber se um commit novo é necessario ou nao
+
+4)Quais são algumas das situações em que branches seriam úteis para manter seu histórico organizado? Como branches ajudariam?
+Para criar variaçoes nao oficiais dos programas, ou para testar coisas diferentes que podem ser arriscadas e podem levar a bugs.Os branchs permitem fazer essas alteracoes paralelas sem que o resto do progrma principal seja alterado.
+
+5)Como os diagramas ajudam a visualizar a estrutura de branches?
+Eles permitem uma compreensao soobre qual dos branches é o principal ou apenas um anexo facilitando saber a ordem em que foram criados ous as probabilidades de cada commit ou branch de conter algo especifico.
