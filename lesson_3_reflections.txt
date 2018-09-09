@@ -4,6 +4,19 @@ Quando estiver trabalhando em algo mais simples ou com um grande grupo de pessoa
 2)Por que você prefere efetuar pull de alterações manualmente do que deixar o Git atualizar-se automaticamente com o seu repositório remoto?
 Não tenho certeza mas acho que permite um maior controle sobre o que será 'puxado' e compartilhado.
 
-3)
+3)Descreva as diferenças entre bifurcações, clones e branches. Quando você usaria um e não os outros?
+A bifurcação pega um arquivo exitente e  o copia com links diretos paro o original em um remote, eUsaria a bifurcação caso fosse usar algum projeto pré-existente para adicionar alguma coisa básica ou para sempre poder ter um caminho para o repositório original. O clone pega todo o historico de um repositorio para o seu computador e eu usaria em algum aruivo mais complexo como um programa que está sendo desenvolvido porque ter minha propria versão clonada facilitaria o tabalho. E os branches servem para criar novos caminhos além do master eu provavelmente os usaria apenas para testar algumas funçoes novas ou fazer alteraçoes que pudessem afetar todo o trabalho.
 
-4)
+4)Qual é o benefício de ter uma cópia do último estado conhecido do remoto armazenado localmente?
+Fazer alterações localmente que não são necessárias para o produto final , ou fazer alterações que podem levar um longo tempo para serem concluidas já que no remote elas poderiam ser alteradas a versao local permanecerá igual a quando foi copiada até que alterações sejam realizadas.
+
+5)Como você colaboraria sem usar Git ou GitHub? O que seria mais fácil e mais difícil?
+Usaria o golge docs mas isso seria complicado pois ele é umprogrma de edição de textos ou mandaria mensagens pelo celular para aqueles com quem estou trabalhando.O git é um pouco  complexo de usar mas ele permite mais versatilidade em relação as coissa que podem ser feitas então se todos em meu projeto o usassem isso iria facilitar bastante. No caso contrario usaria o docs memo que possui uma caixa de bate papo onde podem ser comnetadas ou questionadas alterações imediatamente.
+
+6)Quando você gostaria de fazer alterações em um branch separado, e não diretamente no master? Quais são os benefícios de cada abordagem?
+Apenas se eu estivsse num trabalho colaborativo realmente grande. Fazer as alterações no master é muito mais fácil e simplificado , mas a opção de realizar o pull request permite o controle de escolher qual versão ou alteração eu quero incluir no meu projeto mesmo que seja mais demorado e complexo de fazê-lo. 
+
+
+
+
+
