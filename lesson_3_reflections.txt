@@ -1,0 +1,4 @@
+1)Quando gostaria de usar um repositório remoto em vez de manter o trabalho local?
+Quando estiver trabalhando em algo mais simples ou com um grande grupo de pessoas, pois pode ser acessado por qualquer lugar.Além disso quando não houver problemas em compartilhar a versão com terceiros.
+
+2)
